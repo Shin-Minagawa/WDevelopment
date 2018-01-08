@@ -1,0 +1,1 @@
+import minashin from './components/minashin.js';
